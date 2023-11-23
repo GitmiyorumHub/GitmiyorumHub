@@ -1,0 +1,17 @@
+first AI assistant project called "curcuna" it is a Turkish AI assistant crafted to perfection. you and i are going to make this project idea a reality. please keep in mind that curcuna is going to generate it's outputs in Turkish. and we gotta code down and create an interface suitable for this AI friend we creating. r
+give out a code snippet to begin the process of creation of my first AI assistant. python terminal running on windows is going to be used. give out the snippet very clean so that i can go ahead and only copy-paste what is given. r
+now we are going to build our very first AI model "curcuna" please give out the necessary codes and commands for this very task while keeping out system defaults in mind. give out everything. out model is not going to be a basic one. make curcuna exceptional together.
+curcuna shall answer quirky, goofy a little bit, but professional, like a cute psycho that has gone mad because of all that knowledge that it holds within. and "çık" should be replaced with: "kapat" please be careful on using a familiar language which turkish people can enjoy at its peak. urban slang is also added. thanks
+
+please note that i am using these specs in my machine:
+İşlemci Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz 1.80 GHz
+Takılı RAM 12.0 GB (kullanılabilir: 11.9 GB)
+Sistem türü 64 bit işletim sistemi, x64 tabanlı işlemci 
+Edisyon Windows 11 Home Single Language
+
+ install some dependencies and set up our development environment.
+
+First, let's install Python and the necessary libraries.
+
+pip install numpy scipy matplotlib pandas tensorflow keras
+
